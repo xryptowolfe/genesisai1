@@ -1,0 +1,1 @@
+# Contains operator definitions and eigenvalue mapping

@@ -1,0 +1,1 @@
+# Generates polynomials from logic results

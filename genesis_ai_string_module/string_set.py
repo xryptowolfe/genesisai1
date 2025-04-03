@@ -1,0 +1,1 @@
+# Manages the list of strings for processing

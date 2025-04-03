@@ -1,0 +1,1 @@
+# Core logic for applying operators on sequences
